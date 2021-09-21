@@ -6,6 +6,12 @@ A Windows 98 classic, on the web 💥
 
 > **NOTE:** This is a work-in-progress, though if you find it interesting feel free to make suggestions on how you might improve it. I'll be using this app as the basis for a few courses I'm working on.
 
+## Get Started
+```
+npm install
+npm run dev
+```
+
 **TODO:** Screen reader testing
 **TODO:** Keyboard grid navigation
 **TODO:** Cross-browser testing
